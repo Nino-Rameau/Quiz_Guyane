@@ -35,4 +35,4 @@ L'identifiant par défaut est **1234** et le mot de passe **1234**. (Ils peuvent
 
 ## Licence
 
-Réaliser dans le cadre d'un projet scolaire en mai 2023.
+Réalisé dans le cadre d'un projet scolaire en mai 2023.
